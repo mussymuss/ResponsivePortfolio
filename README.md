@@ -1,7 +1,7 @@
 # Responsive Portfolio
 This is a responsive portfolio website build using bootstrap
 
-[Portfolio Link](https://mussymuss.github.io/ResponsivePortfolio/)
+[Portfolio Link](https://mussymuss.github.io/ResponsivePortfolio/index.html)
 
 ## Built With
 
